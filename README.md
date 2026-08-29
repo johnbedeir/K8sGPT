@@ -167,4 +167,3 @@ Same scan, but Ollama explains _why_ things are broken and what to do, using the
 ### Your video flow
 
 **Install → Minikube → Ollama → K8sGPT → break Kubernetes → K8sGPT diagnoses it → fix it → analyze again.**
-# K8sGPT
